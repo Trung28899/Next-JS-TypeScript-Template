@@ -1,10 +1,10 @@
 import React from "react";
-import Test from "containers/Demo/Test";
+import I18N from "containers/Demo/i18n";
 
 function test() {
   return (
     <div>
-      <Test />
+      <I18N />
     </div>
   );
 }
