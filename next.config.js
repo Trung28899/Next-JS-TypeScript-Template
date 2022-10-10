@@ -3,11 +3,6 @@ const path = require("path");
 const nextConfig = {
   reactStrictMode: false,
   swcMinify: true,
-  experimental: {
-    images: {
-      unoptimized: true,
-    },
-  },
   trailingSlash: true,
   webpack(config) {
     // Alias
