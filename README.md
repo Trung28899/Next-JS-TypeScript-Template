@@ -16,3 +16,10 @@ link:
 https://hackmd.io/JmVMaCjKQ8OR8nHu9oR3VQ
 
 $ npm install --save --force axios
+
+Redux:
+
+$ npm install --save --force @reduxjs/toolkit @types/react-redux react-redux redux redux-thunk
+
+See files in @/stores
+See setup in @/pages/app.tsx
