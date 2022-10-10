@@ -23,3 +23,4 @@ $ npm install --save --force @reduxjs/toolkit @types/react-redux react-redux red
 
 See files in @/stores
 See setup in @/pages/app.tsx
+See how to use it in @/hooks/useLoading.tsx
